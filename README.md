@@ -1,4 +1,4 @@
--IT-145-
+|IT-145|
 
 # Summarize the project and what problem was it solving:
 For this project I had to create a program as a rescue animal management system, implemented through Java classes such as RescueAnimal, Dog, and Monkey, and a driver class Driver to interact with the system through a command-line interface. 
